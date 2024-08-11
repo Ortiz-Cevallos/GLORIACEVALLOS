@@ -2,4 +2,4 @@
 title: " "
 ---
 <p> Por favor contáctame a través de: </p>
-<a href="mailto:leortiz@uc.cl" class="email">leortiz@uc.cl</a>
+<a href="leortizuc@gmail.coml" class="email">leortizuc@gmail.com</a>

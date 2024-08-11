@@ -1,23 +1,19 @@
-name: "Luis Ortiz Cevallos"
+name: "Gloria Ruth Cevallos"
 output_dir: "."
 navbar:
-  title: "Luis Ortiz Cevallos"
+  title: "Gloria Ruth Cevallos"
   left:
-    - text: "Publicaciones"
+    - text: "Experiencia"
       href: PUBLI.html
-    - text: "Presentaciones y Conferencias"
-      href: PRES.html
-    - text: "Cursos y recursos técnicos"
+    - text: "Referencias profesionales"
       href: CURSOS.html
   right:
     - icon: fa-envelope fa-lg
       href: EMAIL.html
-    - icon: fa-github fa-lg
-      href: https://github.com/Ortiz-Cevallos
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/YoEcon
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/luis-ortiz-cevallos-2a6bb162/
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/luis.o.cevallos
+    - icon: fa-phone fa-lg
+      href: PHONE.html 
 output:
   html_document:
     theme: cosmo
